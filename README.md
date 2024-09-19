@@ -1,4 +1,4 @@
-Not fpr use with illicit or illegal purposes.
+Not for use with illicit or illegal purposes.
 C2C-java provides a simple Connect-Command Java application used to control a developed Windows-based IoT device.
-  Command sent via C2Server sends shutdown command to C2Client.
+  The command sent via C2Server sends shutdown command to C2Client.
   
